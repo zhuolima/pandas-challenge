@@ -1,6 +1,5 @@
-# pandas-challenge
+# Pandas-challenge
 
-Pandas Homework - Pandas, Pandas, Pandas
 ![image](https://user-images.githubusercontent.com/74121692/134449650-4b8b6e13-89c2-4650-bc60-6fa341d43eaf.png)
 
 Background
